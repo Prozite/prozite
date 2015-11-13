@@ -1,0 +1,33 @@
+.border{
+  background-color: black;
+}
+.nav{
+  margin: 130px;
+  font-size: 20px;
+  color: white;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color:yellow;
+}
+body{
+  background-color: red;
+}
+h1{
+  text-align: center;
+
+}
+h1 img{
+  width: 15%;
+}
+h2{
+  background-color: white;
+  color: red
+}
+.renard {
+  background-color: white;
+  font-size: 20px;
+  color:red;
+}
